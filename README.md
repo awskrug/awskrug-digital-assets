@@ -6,7 +6,7 @@
 ## 이미지 갤러리
 
 ### 커뮤니티 로고
-| 미리보기 | 경로 |
+| 로고 | 모임 |
 |---------|------|
 | <img src="ai engineering/ai-engineering.png" width="200"/> | [AI Engineering](ai%20engineering/ai-engineering.png) |
 | <img src="architecture/architecture.png" width="200"/> | [Architecture](architecture/architecture.png) |
@@ -30,7 +30,7 @@
 | <img src="pangyo/pangyo.png" width="200"/> | [Pangyo](pangyo/pangyo.png) |
 
 ### 특별 이벤트
-| 미리보기 | 경로 |
+| 미리보기 | 이벤트명 |
 |---------|------|
 | <img src="2024 community day /mug/mug_mock up.png" width="200"/> | [2024 Community Day Mug](2024%20community%20day%20/mug/mug_mock%20up.png) |
 | <img src="doodles/2022HappyNewYear/2022happynewyear.png" width="200"/> | [2022 Happy New Year](legacy/2022HappyNewYear/2022happynewyear.png) |
