@@ -8,13 +8,13 @@
 ### 커뮤니티 로고
 | 로고 | 모임 |
 |---------|------|
-| <img src="ai engineering/ai-engineering.png" width="200"/> | [AI Engineering](ai%20engineering/ai-engineering.png) |
+| <img src="ai-engineering/ai-engineering.png" width="200"/> | [AI Engineering](ai-engineering/ai-engineering.png) |
 | <img src="architecture/architecture.png" width="200"/> | [Architecture](architecture/architecture.png) |
 | <img src="ausg/ausg.png" width="200"/> | [AUSG](ausg/ausg.png) |
 | <img src="beginners/beginners.png" width="200"/> | [Beginners](beginners/beginners.png) |
 | <img src="busan/busan.png" width="200"/> | [Busan](busan/busan.png) |
 | <img src="cert/cert.png" width="200"/> | [Certification](cert/cert.png) |
-| <img src="containter/container.png" width="200"/> | [Container](containter/container.png) |
+| <img src="container/container.png" width="200"/> | [Container](container/container.png) |
 | <img src="data/data.png" width="200"/> | [Data](data/data.png) |
 | <img src="deepracer/deepracer.png" width="200"/> | [DeepRacer](deepracer/deepracer.png) |
 | <img src="devops/devops.png" width="200"/> | [DevOps](devops/devops.png) |
@@ -28,13 +28,20 @@
 | <img src="magok/magok.png" width="200"/> | [Magok](magok/magok.png) |
 | <img src="network/network.png" width="200"/> | [Network](network/network.png) |
 | <img src="pangyo/pangyo.png" width="200"/> | [Pangyo](pangyo/pangyo.png) |
+| <img src="serverless/serverless.png" width="200"/> | [Serverless](serverless/serverless.png) |
+| <img src="startup/startup.png" width="200"/> | [Startup](startup/startup.png) |
+| <img src="women-in-cloud/women-in-cloud.png" width="200"/> | [Women in Cloud](women-in-cloud/women-in-cloud.png) |
 
 ### 특별 이벤트
 | 미리보기 | 이벤트명 |
 |---------|------|
-| <img src="2024 community day /mug/mug_mock up.png" width="200"/> | [2024 Community Day Mug](2024%20community%20day%20/mug/mug_mock%20up.png) |
-| <img src="doodles/2022HappyNewYear/2022happynewyear.png" width="200"/> | [2022 Happy New Year](legacy/2022HappyNewYear/2022happynewyear.png) |
-| <img src="doodles/2023-greeting-aws.png" width="200"/> | [2023 Greeting](legacy/2023-greeting-aws.png) |
+| <img src="2025-JAWSDAYS/2025-jawskrug-stickers-1.png" width="200"/> | [2025 일본 AWS 사용자 모임 이벤트 참가 기념 스티커 1](2025-JAWSDAYS/2025-jawskrug-stickers-1.png) |
+| <img src="2025-JAWSDAYS/2025-jawskrug-stickers-2.png" width="200"/> | [2025 일본 AWS 사용자 모임 이벤트 참가 기념 스티커 2](2025-JAWSDAYS/2025-jawskrug-stickers-2.png) |
+| <img src="2024-community-day/mug/mug_mockup.png" width="200"/> | [2024 Community Day Mug](2024-community-day/mug/mug_mockup.png) |
+| <img src="2024-community-day/sticker/2024-communityday-sticker.png" width="200"/> | [2024 Community Day Sticker](2024-community-day/sticker/2024-communityday-sticker.png) |
+| <img src="2024-community-day/wappen/2024-communityday-wappen.svg" width="200"/> | [2024 Community Day Wappen](2024-community-day/wappen/2024-communityday-wappen.svg) |
+| <img src="doodles/2022HappyNewYear/2022happynewyear.png" width="200"/> | [2022 Happy New Year](doodles/2022HappyNewYear/2022happynewyear.png) |
+| <img src="doodles/2023-greeting-aws.png" width="200"/> | [2023 Greeting](doodles/2023-greeting-aws.png) |
 
 ### 레거시 이미지
 | 미리보기 | 경로 |
