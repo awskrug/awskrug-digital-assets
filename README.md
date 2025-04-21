@@ -17,8 +17,9 @@
 ## 이미지 갤러리
 
 ### 커뮤니티 로고
-| 로고 | 모임 |
+| 로고 | 설명 |
 |---------|------|
+| <img src="awskrug-title/awskrug-title.svg" width="200"/> | [AWSKRUG 로고](awskrug-title/awskrug-title.svg) |
 | <img src="ai-engineering/ai-engineering_TP.png" width="200"/> | [AI Engineering](ai-engineering/ai-engineering_TP.png) |
 | <img src="architecture/architecture_TP.png" width="200"/> | [Architecture](architecture/architecture_TP.png) |
 | <img src="ausg/ausg_TP.png" width="200"/> | [AUSG](ausg/ausg_TP.png) |
@@ -39,6 +40,7 @@
 | <img src="magok/magok_TP.png" width="200"/> | [Magok](magok/magok_TP.png) |
 | <img src="network/network_TP.png" width="200"/> | [Network](network/network_TP.png) |
 | <img src="pangyo/pangyo_TP.png" width="200"/> | [Pangyo](pangyo/pangyo_TP.png) |
+| <img src="partner/partner_TP.png" width="200"/> | [Partner](partner/partner_TP.png) |
 | <img src="serverless/serverless_TP.png" width="200"/> | [Serverless](serverless/serverless_TP.png) |
 | <img src="startup/startup_TP.png" width="200"/> | [Startup](startup/startup_TP.png) |
 | <img src="women-in-cloud/women-in-cloud_TP.png" width="200"/> | [Women in Cloud](women-in-cloud/women-in-cloud_TP.png) |
@@ -55,7 +57,7 @@
 | <img src="doodles/2023-greeting-aws.png" width="200"/> | [2023 Greeting](doodles/2023-greeting-aws.png) |
 
 ### 레거시 이미지
-| 미리보기 | 경로 |
+| 미리보기 | 설명 |
 |---------|------|
 | <img src="legacy/DEEPRACER/deepracer_evo_gurumi.png" width="200"/> | [DeepRacer Evolution Gurumi](legacy/DEEPRACER/deepracer_evo_gurumi.png) |
 | <img src="legacy/DEEPRACER/gurumi deepracer.png" width="200"/> | [Gurumi DeepRacer](legacy/DEEPRACER/gurumi%20deepracer.png) |
