@@ -5,7 +5,7 @@
 
 ## 구름이
 
-<img src="gurumi/gurumi_TR.png" width="500"/>
+<img src="gurumi/gurumi_TP.png" width="500"/>
 
 > AWSKRUG의 마스코트인 구름이(GURUMI)입니다. 구름이는 AWS의 클라우드 서비스를 상징합니다.
 
@@ -19,29 +19,29 @@
 ### 커뮤니티 로고
 | 로고 | 모임 |
 |---------|------|
-| <img src="ai-engineering/ai-engineering.png" width="200"/> | [AI Engineering](ai-engineering/ai-engineering.png) |
-| <img src="architecture/architecture.png" width="200"/> | [Architecture](architecture/architecture.png) |
-| <img src="ausg/ausg.png" width="200"/> | [AUSG](ausg/ausg.png) |
-| <img src="beginners/beginners.png" width="200"/> | [Beginners](beginners/beginners.png) |
-| <img src="busan/busan.png" width="200"/> | [Busan](busan/busan.png) |
-| <img src="cert/cert.png" width="200"/> | [Certification](cert/cert.png) |
-| <img src="container/container.png" width="200"/> | [Container](container/container.png) |
-| <img src="data/data.png" width="200"/> | [Data](data/data.png) |
-| <img src="deepracer/deepracer.png" width="200"/> | [DeepRacer](deepracer/deepracer.png) |
-| <img src="devops/devops.png" width="200"/> | [DevOps](devops/devops.png) |
-| <img src="euljiro/euljiro.png" width="200"/> | [Euljiro](euljiro/euljiro.png) |
-| <img src="gametech/gametech.png" width="200"/> | [GameTech](gametech/gametech.png) |
-| <img src="gudi/gudi.png" width="200"/> | [Gudi](gudi/gudi.png) |
-| <img src="gurumi/gurumi.png" width="200"/> | [Gurumi](gurumi/gurumi.png) |
-| <img src="handson/handson.png" width="200"/> | [Hands-on](handson/handson.png) |
-| <img src="ios/ios.png" width="200"/> | [iOS](ios/ios.png) |
-| <img src="iot/iot.png" width="200"/> | [IoT](iot/iot.png) |
-| <img src="magok/magok.png" width="200"/> | [Magok](magok/magok.png) |
-| <img src="network/network.png" width="200"/> | [Network](network/network.png) |
-| <img src="pangyo/pangyo.png" width="200"/> | [Pangyo](pangyo/pangyo.png) |
-| <img src="serverless/serverless.png" width="200"/> | [Serverless](serverless/serverless.png) |
-| <img src="startup/startup.png" width="200"/> | [Startup](startup/startup.png) |
-| <img src="women-in-cloud/women-in-cloud.png" width="200"/> | [Women in Cloud](women-in-cloud/women-in-cloud.png) |
+| <img src="ai-engineering/ai-engineering_TP.png" width="200"/> | [AI Engineering](ai-engineering/ai-engineering_TP.png) |
+| <img src="architecture/architecture_TP.png" width="200"/> | [Architecture](architecture/architecture_TP.png) |
+| <img src="ausg/ausg_TP.png" width="200"/> | [AUSG](ausg/ausg_TP.png) |
+| <img src="beginners/beginners_TP.png" width="200"/> | [Beginners](beginners/beginners_TP.png) |
+| <img src="busan/busan_TP.png" width="200"/> | [Busan](busan/busan_TP.png) |
+| <img src="cert/cert_TP.png" width="200"/> | [Certification](cert/cert_TP.png) |
+| <img src="container/container_TP.png" width="200"/> | [Container](container/container_TP.png) |
+| <img src="data/data_TP.png" width="200"/> | [Data](data/data_TP.png) |
+| <img src="deepracer/deepracer_TP.png" width="200"/> | [DeepRacer](deepracer/deepracer_TP.png) |
+| <img src="devops/devops_TP.png" width="200"/> | [DevOps](devops/devops_TP.png) |
+| <img src="euljiro/euljiro_TP.png" width="200"/> | [Euljiro](euljiro/euljiro_TP.png) |
+| <img src="gametech/gametech_TP.png" width="200"/> | [GameTech](gametech/gametech_TP.png) |
+| <img src="gudi/gudi_TP.png" width="200"/> | [Gudi](gudi/gudi_TP.png) |
+| <img src="gurumi/gurumi_TP.png" width="200"/> | [Gurumi](gurumi/gurumi_TP.png) |
+| <img src="handson/handson_TP.png" width="200"/> | [Hands-on](handson/handson_TP.png) |
+| <img src="ios/ios_TP.png" width="200"/> | [iOS](ios/ios_TP.png) |
+| <img src="iot/iot_TP.png" width="200"/> | [IoT](iot/iot_TP.png) |
+| <img src="magok/magok_TP.png" width="200"/> | [Magok](magok/magok_TP.png) |
+| <img src="network/network_TP.png" width="200"/> | [Network](network/network_TP.png) |
+| <img src="pangyo/pangyo_TP.png" width="200"/> | [Pangyo](pangyo/pangyo_TP.png) |
+| <img src="serverless/serverless_TP.png" width="200"/> | [Serverless](serverless/serverless_TP.png) |
+| <img src="startup/startup_TP.png" width="200"/> | [Startup](startup/startup_TP.png) |
+| <img src="women-in-cloud/women-in-cloud_TP.png" width="200"/> | [Women in Cloud](women-in-cloud/women-in-cloud_TP.png) |
 
 ### 특별 이벤트
 | 미리보기 | 이벤트명 |
