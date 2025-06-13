@@ -25,9 +25,7 @@
 | euljiro-sticker.png | ![euljiro-sticker](euljiro-sticker.png) |
 | frontend-sticker.png | ![frontend-sticker](frontend-sticker.png) |
 | gametech-sticker.png | ![gametech-sticker](gametech-sticker.png) |
-
 | gudi-sticker.png | ![gudi-sticker](gudi-sticker.png) |
-
 | iot-sticker.png | ![iot-sticker](iot-sticker.png) |
 | magok.png | ![magok](magok.png) |
 | main_sticker-2.png | ![main_sticker-2](main_sticker-2.png) |
@@ -35,7 +33,6 @@
 | network.png | ![network](network.png) |
 | pangyo.png | ![pangyo](pangyo.png) |
 | platform-sticker.png | ![platform-sticker](platform-sticker.png) |
-| resizing-stickers-for-ohprintme.png | ![resizing-stickers-for-ohprintme](resizing-stickers-for-ohprintme.png) |
 | security.png | ![security](security.png) |
 | seongsu.png | ![seongsu](seongsu.png) |
 | serverless.png | ![serverless](serverless.png) |
