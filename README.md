@@ -11,7 +11,8 @@
 
 > AWSKRUG의 마스코트인 구름이(GURUMI)입니다. 구름이는 AWS의 클라우드 서비스를 상징합니다.
 
-- [브랜드 가이드](AWSKRUG-Brand-Guide.pdf) - AWSKRUG의 구성 요소인 로고와 캐릭터 사용, 배너 및 스티커 제작을 위한 가이드 입니다. 캐릭터와 로고는 브랜드를 대표하는 얼굴이자 중요한 자산입니다. 반드시 본 가이드를 참고하여 일관되고 정확하게 사용해 주시기 바랍니다. 
+- [브랜드 가이드](AWSKRUG-Brand-Guide.pdf) - AWSKRUG의 구성 요소인 로고와 캐릭터 사용, 배너 및 스티커 제작을 위한 가이드 입니다. 캐릭터와 로고는 브랜드를 대표하는 얼굴이자 중요한 자산입니다. 반드시 본 가이드를 참고하여 일관되고 정확하게 사용해 주시기 바랍니다.
+- [Amazon 공식 폰트(Ember) 다운로드](https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/branding/Amazon_Typefaces_Complete_Font_Set_Mar2020.zip) - Amazon 브랜드 폰트(Ember 포함) 공식 배포 링크입니다. 디자인 작업 시 활용 가능합니다.
 
 ## 이미지 갤러리
 
