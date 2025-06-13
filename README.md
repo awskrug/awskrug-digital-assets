@@ -48,6 +48,8 @@
 
 ### 특별 이벤트
 | 미리보기 | 이벤트명 |
+| --- | --- |
+| [2025 Seoul Summit 미리보기](2025-Seoul-Summit/README.md) | [2025 Seoul Summit](2025-Seoul-Summit/) |
 |---------|------|
 | <img src="2025-JAWSDAYS/2025-jawskrug-stickers-1.png" width="200"/> | [2025 일본 AWS 사용자 모임 이벤트 참가 기념 스티커 1](2025-JAWSDAYS/2025-jawskrug-stickers-1.png) |
 | <img src="2025-JAWSDAYS/2025-jawskrug-stickers-2.png" width="200"/> | [2025 일본 AWS 사용자 모임 이벤트 참가 기념 스티커 2](2025-JAWSDAYS/2025-jawskrug-stickers-2.png) |
