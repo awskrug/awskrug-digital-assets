@@ -30,13 +30,13 @@
 | gametech_without-title.png | ![gametech_without-title](png/gametech_without-title.png) |
 | guro.png | ![guro](png/guro.png) |
 | inchun.png | ![inchun](png/inchun.png) |
-| kiro-and-grumi-love.png | ![kiro-and-grumi-love](png/kiro-and-grumi-love.png) |
+| kiro-and-gurumi-love.png | ![kiro-and-gurumi-love](png/kiro-and-gurumi-love.png) |
 | kiro-ghost-gurumi.png | ![kiro-ghost-gurumi](png/kiro-ghost-gurumi.png) |
 | kiro-sticker.png | ![kiro-sticker](png/kiro-sticker.png) |
 | magok.png | ![magok](png/magok.png) |
-| plateform.png | ![plateform](png/plateform.png) |
+| platform.png | ![platform](png/platform.png) |
 | security.png | ![security](png/security.png) |
-| severless.png | ![severless](png/severless.png) |
+| serverless.png | ![serverless](png/serverless.png) |
 | women-in-cloud.png | ![women-in-cloud](png/women-in-cloud.png) |
 
 > 전체 파일 미리보기는 브라우저에서 확인하세요. 인쇄용 PDF·원본 AI는 동일한 파일명 기준으로 `pdf/`, `ai/` 폴더에서 확인할 수 있습니다.
